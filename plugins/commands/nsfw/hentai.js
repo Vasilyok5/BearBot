@@ -10,8 +10,8 @@ const config = {
 
 const langData = {
     "vi_VN": {
-        "invalidCategory": "❎ Không hợp lệ, các danh mục hiện có:\n{categories}",
-        "error": "❎ Đã có lỗi xảy ra..."
+        "invalidCategory": "❌ Không hợp lệ, các danh mục hiện có:\n{categories}",
+        "error": "❌ Đã có lỗi xảy ra..."
     }
 }
 
