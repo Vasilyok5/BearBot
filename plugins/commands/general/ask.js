@@ -9,14 +9,14 @@ const config = {
 }
 
 import axios from 'axios';
-const apiKey = "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";
+const apiKey = "";
 
 const langData = {
     "vi_VN": {
-        "missingInput": "❎ Vui lòng nhập nội dung cần hỏi.",
-        "error": "❎ Có lỗi xảy ra, vui lòng thử lại sau ít phút.",
-        "invalidToken": "❎ Vui lòng kiểm tra lại token.",
-        "isProcessing": "❎ Bot đang xử lý, vui lòng thử lại sau."
+        "missingInput": "❌ Vui lòng nhập nội dung cần hỏi.",
+        "error": "❌ Có lỗi xảy ra, vui lòng thử lại sau ít phút.",
+        "invalidToken": "❌ Vui lòng kiểm tra lại token.",
+        "isProcessing": "❌ Bot đang xử lý, vui lòng thử lại sau."
     }
 }
 
