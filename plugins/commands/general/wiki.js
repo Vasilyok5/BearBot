@@ -11,9 +11,9 @@ const config = {
 
 const langData = {
     "vi_VN": {
-        "missingInput": "❎ Thiếu dữ kiện!",
-        "noResult": "❎ Không tìm thấy kết quả!",
-        "error": "❎ Có lỗi xảy ra, vui lòng thử lại sau"
+        "missingInput": "❌ Thiếu dữ kiện!",
+        "noResult": "❌ Không tìm thấy kết quả!",
+        "error": "❌ Có lỗi xảy ra, vui lòng thử lại sau"
     }
 }
 
