@@ -17,8 +17,8 @@ const langData = {
         "alreadyOn": "✅ Simi đã được bật",
         "alreadyOff": "✅ Simi đã được tắt",
         "missingInput": "❗ Vui lòng nhập nội dung cần trò chuyện với Simi",
-        "noResult": "❎ Simi không hiểu bạn đang nói gì :(",
-        "error": "❎ Có lỗi xảy ra, vui lòng thử lại sau"
+        "noResult": "❌ Simi không hiểu bạn đang nói gì :(",
+        "error": "❌ Có lỗi xảy ra, vui lòng thử lại sau"
     }
 }
 
