@@ -9,14 +9,9 @@ const config = {
 
 const langData = {
     "vi_VN": {
-        "noResults": "❎ Không tìm thấy kết quả nào",
+        "noResults": "❌ Không tìm thấy kết quả nào",
         "results": "• Anime: {anime}\n• Nhân vật: {character}\n• Quote: \"{quote}\"",
-        "error": "❎ Đã có lỗi xảy ra..."
-    },
-    "ar_SY": {
-        "noResults": "لم يتم العثور على نتائج",
-        "results": "• Anime: {anime}\n• الشخصية: {character}\n• Quote: \"{quote}\"",
-        "error": "Đã có lỗi xảy ra..."
+        "error": "❌ Đã có lỗi xảy ra..."
     }
 }
 
