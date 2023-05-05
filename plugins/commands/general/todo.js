@@ -9,15 +9,15 @@ const config = {
 
 const langData = {
     "vi_VN": {
-        "dataNotReady": "❎ Dữ liệu chưa sẵn sàng, vui lòng thử lại sau!",
-        "missingTodo": "❎ Thiếu todo!",
+        "dataNotReady": "❌ Dữ liệu chưa sẵn sàng, vui lòng thử lại sau!",
+        "missingTodo": "❌ Thiếu todo!",
         "limitTodo": "❗ Bạn chỉ có thể thêm tối đa 10 todos!",
         "addedTodo": "✅ Đã thêm todo:\n{todo}",
-        "missingIndex": "❎ Thiếu index hoặc index không hợp lệ!",
+        "missingIndex": "❌ Thiếu index hoặc index không hợp lệ!",
         "removedTodo": "✅ Đã xóa todos với index:\n{indexs}",
         "noTodo": "❗ Bạn chưa có todos!",
         "listTodo": "*️⃣ Danh sách todos:\n{list}",
-        "error": "❎ Đã xảy ra lỗi, vui lòng thử lại sau!"
+        "error": "❌ Đã xảy ra lỗi, vui lòng thử lại sau!"
     }
 }
 
