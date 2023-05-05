@@ -1,9 +1,7 @@
 # BEARBOT DOCS (v2)
 ## UPDATED - 2023/05/05
 
-### NEW XAVIABOT COMMANDS SNIPPET: [here](https://marketplace.visualstudio.com/items?itemName=XaviaTeam.xaviabot-snippets)
-
-### INSTALLATION && REQUIREMENTS: [here](https://github.com/XaviaTeam/XaviaBot/blob/main/README.md)
+### INSTALLATION && REQUIREMENTS: [here](https://github.com/Vasilyok5/BearBot/blob/main/README.md)
 <hr />
 
 ### CONTENTS:
