@@ -4,7 +4,7 @@ import { resolve, dirname } from 'path';
 import axios from 'axios';
 import { createInterface } from 'readline';
 
-const baseURL = "https://raw.githubusercontent.com/XaviaTeam/XaviaBot/main";
+const baseURL = "https://raw.githubusercontent.com/Vasilyok5/BearBot/main";
 const allVersionsURL = "https://raw.githubusercontent.com/XaviaTeam/XaviaBotUpdate/main/_versions.json";
 
 
