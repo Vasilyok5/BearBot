@@ -1,0 +1,34 @@
+{
+    "100080791219063": {
+        "userID": "100080791219063",
+        "info": {
+            "name": "Đặng An",
+            "firstName": "An",
+            "vanity": "",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100080791219063",
+            "gender": 2,
+            "type": "friend",
+            "isFriend": true,
+            "isBirthday": false,
+            "thumbSrc": "https://graph.facebook.com/100080791219063/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+        },
+        "data": {
+            "exp": 22
+        }
+    },
+    "100092339643651": {
+        "userID": "100092339643651",
+        "info": {
+            "name": "Nguyễn Bát Man",
+            "firstName": "Bát Man",
+            "vanity": "",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100092339643651",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false,
+            "thumbSrc": "https://graph.facebook.com/100092339643651/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+        },
+        "data": {}
+    }
+}
