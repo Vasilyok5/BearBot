@@ -9,7 +9,7 @@ const config = {
 const langData = {
     'vi_VN': {
         "trans.error.noText": "❗ Vui lòng nhập văn bản cần dịch.",
-        "trans.error.unknown": "❎ Đã xảy ra lỗi",
+        "trans.error.unknown": "❌ Đã xảy ra lỗi",
         "trans.success": "{from} => {to}:\n{translation}"
     }
 }
