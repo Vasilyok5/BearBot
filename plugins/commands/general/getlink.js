@@ -10,10 +10,10 @@ const config = {
 const langData = {
     "vi_VN": {
         "replyMessage": "❗ Vui lòng reply tin nhắn",
-        "noAttachment": "❎ Không có tệp đính kèm",
-        "noSupportedAttachment": "❎ Không có tệp đính kèm hỗ trợ, chỉ hỗ trợ ảnh và ảnh động",
-        "uploadFailed": "❎ Lấy link thất bại",
-        "error": "❎ Đã xảy ra lỗi"
+        "noAttachment": "❌ Không có tệp đính kèm",
+        "noSupportedAttachment": "❌ Không có tệp đính kèm hỗ trợ, chỉ hỗ trợ ảnh và ảnh động",
+        "uploadFailed": "❌ Lấy link thất bại",
+        "error": "❌ Đã xảy ra lỗi"
     }
 }
 
