@@ -11,8 +11,8 @@ const langData = {
     "vi_VN": {
         "enabled": "✅ Đã bật chế độ NSFW",
         "disabled": "✅ Đã tắt chế độ NSFW",
-        "dataNotReady": "❎ Dữ liệu chưa sẵn sàng",
-        "error": "❎ Đã có lỗi xảy ra, {error}",
+        "dataNotReady": "❌ Dữ liệu chưa sẵn sàng",
+        "error": "❌ Đã có lỗi xảy ra, {error}",
     }
 }
 
