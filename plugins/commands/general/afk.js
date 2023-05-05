@@ -6,8 +6,8 @@ const langData = {
     "vi_VN": {
         "afkOn": "✅ Bạn đã bật chế độ AFK.",
         "afkOff": "✅ Bạn đã tắt chế độ AFK.",
-        "userNoData": "❎ Dữ liệu của bạn không khả dụng.",
-        "error": "❎ Đã xảy ra lỗi."
+        "userNoData": "❌ Dữ liệu của bạn không khả dụng.",
+        "error": "❌ Đã xảy ra lỗi."
     }
 }
 
