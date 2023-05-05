@@ -10,9 +10,9 @@ const config = {
 const langData = {
     "vi_VN": {
         "missingInput": "❗ Vui lòng nhập địa điểm",
-        "notFound": "❎ Không tìm thấy địa điểm",
+        "notFound": "❌ Không tìm thấy địa điểm",
         "results": "☁️ Thời tiết tại {name}:\n🌡️ Nhiệt độ: {temperature}°C\n🌡️Cảm giác như: {feelLikeTemperature}°C\n⌚ Thời gian: {date}\n⌚ Thời gian quan sát: {observationtime}\n*️⃣ Trạng thái: {skytext}\n💨 Tốc độ gió: {windspeed} kph\n💦 Độ ẩm: {humidity}%\n*️⃣ Áp suất: {pressure} mm",
-        "error": "❎ Đã xảy ra lỗi"
+        "error": "❌ Đã xảy ra lỗi"
     }
 }
 
