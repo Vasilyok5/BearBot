@@ -10,7 +10,7 @@ const config = {
 const langData = {
     "vi_VN": {
         "help.list": "{list}\n\n⇒ Tổng cộng: {total} lệnh\n⇒ Sử dụng {syntax} [lệnh] để xem thêm thông tin về lệnh.",
-        "help.commandNotExists": "❎ Lệnh {command} không tồn tại.",
+        "help.commandNotExists": "❌ Lệnh {command} không tồn tại.",
         "help.commandDetails": `
             ⇒ Tên: {name}
             ⇒ Tên khác: {aliases}
