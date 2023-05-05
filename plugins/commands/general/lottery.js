@@ -11,10 +11,10 @@ const config = {
 
 const langData = {
     "vi_VN": {
-        "anErrorHasOccurred": "❎ Đã có lỗi xảy ra",
-        "invalidNumberBet": "❎ Đã có lỗi xảy ra! Số đặt cược chỉ nằm trong khoảng 1 - {limitNumber}",
-        "invalidBet": "❎ Đã có lỗi xảy ra! Số tiền cược thấp nhất là {minBet}",
-        "notEnoughMoney": "❎ Bạn không đủ tiền để đặt cược",
+        "anErrorHasOccurred": "❌ Đã có lỗi xảy ra",
+        "invalidNumberBet": "❌ Đã có lỗi xảy ra! Số đặt cược chỉ nằm trong khoảng 1 - {limitNumber}",
+        "invalidBet": "❌ Đã có lỗi xảy ra! Số tiền cược thấp nhất là {minBet}",
+        "notEnoughMoney": "❌ Bạn không đủ tiền để đặt cược",
         "alreadyBet": "❗ Bạn đã đặt cược rồi",
         "lotteryInfo": "💵== Lottery Info ==💵\n- Số người chơi: {allPlayers}\n- Tổng tiền thưởng: {bonus}\n- Thời gian kết thúc: {time}\n\n- Số bạn cược: {yourNumberBet}\n- Số tiền cược của bạn: {yourBet}",
         "confirmBet": '🍓== Confirm ==🍓\nBạn đặt cược vào số: {numberBet}\nVới số tiền là: {bet}\n\nReact 👍 vào tin nhắn này để xác nhận',
