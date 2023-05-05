@@ -10,8 +10,8 @@ const config = {
 
 const langData = {
     "vi_VN": {
-        "profileImage.noData": "❎ Không có dữ liệu...",
-        "profileImage.error": "❎ Đã xảy ra lỗi"
+        "profileImage.noData": "❌ Không có dữ liệu...",
+        "profileImage.error": "❌ Đã xảy ra lỗi"
     }
 }
 
