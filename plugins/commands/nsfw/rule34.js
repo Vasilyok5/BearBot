@@ -11,10 +11,10 @@ const config = {
 const langData = {
     "vi_VN": {
         "userNoData": "❗ Bạn chưa có dữ liệu, hãy sử dụng lệnh {prefix}daily để nhận thưởng hàng ngày",
-        "notEnoughMoney": "❎ Bạn không đủ tiền để sử dụng lệnh này, cần {cost}XC để sử dụng",
-        "noKeyword": "❎ Bạn chưa nhập từ khóa",
-        "noResult": "❎ Không tìm thấy kết quả nào",
-        "error": "❎ Đã có lỗi xảy ra, {error}",
+        "notEnoughMoney": "❌ Bạn không đủ tiền để sử dụng lệnh này, cần {cost}XC để sử dụng",
+        "noKeyword": "❌ Bạn chưa nhập từ khóa",
+        "noResult": "❌ Không tìm thấy kết quả nào",
+        "error": "❌ Đã có lỗi xảy ra, {error}",
     }
 }
 
