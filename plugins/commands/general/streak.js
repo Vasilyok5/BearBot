@@ -9,10 +9,10 @@ const config = {
 
 const langData = {
     "vi_VN": {
-        "dataNotReady": "❎ Dữ liệu của bạn chưa sẵn sàng",
+        "dataNotReady": "❌ Dữ liệu của bạn chưa sẵn sàng",
         "notStarted": "❗ Bạn chưa bắt đầu một streak nào",
         "alreadyStarted": "❗ Bạn đã bắt đầu một streak rồi",
-        "invalidDays": "❎ Số ngày không hợp lệ",
+        "invalidDays": "❌ Số ngày không hợp lệ",
         "started": "❗ Bạn đã bắt đầu một streak mới",
         "startedWithMessage": "❗ Bạn đã bắt đầu một streak mới với nội dung:\n{message}",
         "stopped": "❗ Bạn đã dừng streak của mình",
@@ -23,7 +23,7 @@ const langData = {
         "set": "❗ Bạn đã đặt streak của mình thành {days} ngày",
         "relapsed": "❗ Bạn đã bắt đầu lại streak của mình",
         "alreadyStopped": " ❗Bạn đã dừng streak của mình rồi",
-        "error": "❎ Đã có lỗi xảy ra"
+        "error": "❌ Đã có lỗi xảy ra"
     }
 }
 
